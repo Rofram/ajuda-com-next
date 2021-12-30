@@ -1,5 +1,5 @@
-import Header from '../src/components/Header.js'
-import Techs from '../src/components/Techs.js'
+import Header from '../components/Header.js'
+import Techs from '../components/Techs.js'
 
 const patrocinadores = () => {
     return (

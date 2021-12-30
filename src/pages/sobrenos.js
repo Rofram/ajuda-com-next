@@ -1,6 +1,6 @@
 import Link from 'next/link'
-import Header from '../src/components/Header.js'
-import BestTechs from '../src/components/BestTechs.js'
+import Header from '../components/Header.js'
+import BestTechs from '../components/BestTechs.js'
 
 const sobrenos = () => {
     return (
