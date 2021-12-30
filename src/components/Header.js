@@ -12,7 +12,7 @@ const Header = () => {
             <nav>
                 <ul>
                     <li>
-                        <Link href="/index">
+                        <Link href="/">
                             <a>
                                 <Image src="/images/logo.png" alt="Logo da Aperture Laboratories" layout='fill'/>
                             </a>
@@ -21,7 +21,7 @@ const Header = () => {
 
                     <div className="separator"></div>
 
-                    <li><Link href="/index"><a>INÍCIO</a></Link></li>
+                    <li><Link href="/"><a>INÍCIO</a></Link></li>
                     <li><Link href="/sobrenos"><a>SOBRE NÓS</a></Link></li>
                     <li><Link href="/patrocinadores"><a>PATROCINADORES</a></Link></li>
                     <li><Link href="/desafios"><a>DESAFIOS</a></Link></li>
